@@ -1,0 +1,20 @@
+{
+  "name": "musicapi",
+  "version": "1.0.0",
+  "description": "API REST with express that shows music albums",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api"
+  ],
+  "author": "Alejandro Vaquera",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
